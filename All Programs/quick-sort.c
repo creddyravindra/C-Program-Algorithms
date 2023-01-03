@@ -1,4 +1,5 @@
 /*C Program for application of Quick sort*/
+
 #include<stdio.h>
 void Exch(int *p,int *l){
 	int temp = *p;
