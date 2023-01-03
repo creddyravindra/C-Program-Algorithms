@@ -1,4 +1,5 @@
 /*C program to implement Digkstra's Algorithm*/
+
 #include<stdio.h>
 #define infinity 999
 void dij(int n,int v,int cost[20][20],int dist[]){
